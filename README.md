@@ -1,6 +1,6 @@
 # DummyPe
 
-Welcome to my project! This project aims to replicate the basic functionality of any payments app, allowing users to perform transactions, view their account balance, and interact with other users.
+Welcome to DummyPe! This project aims to replicate the basic functionality of any payments app, allowing users to perform transactions, view their account balance, and interact with other users.
 
 ## Features
 
