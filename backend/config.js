@@ -1,4 +1,4 @@
-JWT_SECRET = "mysecret";
+JWT_SECRET = "yourjwtsecret";
 
 module.exports = JWT_SECRET;
 
