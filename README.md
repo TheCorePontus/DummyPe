@@ -18,14 +18,14 @@ Welcome to my project! This project aims to replicate the basic functionality of
 ## Some screenshots from the project
 
 * Signup Page
-> ![This is an alt text.](__/images/signup.png__ "")
+> ![This is an alt text.](./images/signup.png "SignUp")
 
 * Signin Page
 
-> ![This is an alt text.](__/images/signin.png__ "")
+> ![This is an alt text.](./images/signin.png "SignIn")
 * Dashboard Page
 
->  ![This is an alt text.](__/images/dashboard.png__ "")
+>  ![This is an alt text.](./images/dashboard.png "Dashboard")
 
 ## Database Transactions
 
